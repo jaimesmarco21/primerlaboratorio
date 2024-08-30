@@ -1,0 +1,14 @@
+C:\Users\KIRITO RINCON\OneDrive\Documentos\primerlaboratorio\ejercicio1\bin\Debug\net8.0\ejercicio1.exe
+C:\Users\KIRITO RINCON\OneDrive\Documentos\primerlaboratorio\ejercicio1\bin\Debug\net8.0\ejercicio1.deps.json
+C:\Users\KIRITO RINCON\OneDrive\Documentos\primerlaboratorio\ejercicio1\bin\Debug\net8.0\ejercicio1.runtimeconfig.json
+C:\Users\KIRITO RINCON\OneDrive\Documentos\primerlaboratorio\ejercicio1\bin\Debug\net8.0\ejercicio1.dll
+C:\Users\KIRITO RINCON\OneDrive\Documentos\primerlaboratorio\ejercicio1\bin\Debug\net8.0\ejercicio1.pdb
+C:\Users\KIRITO RINCON\OneDrive\Documentos\primerlaboratorio\ejercicio1\obj\Debug\net8.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRITO RINCON\OneDrive\Documentos\primerlaboratorio\ejercicio1\obj\Debug\net8.0\ejercicio1.AssemblyInfoInputs.cache
+C:\Users\KIRITO RINCON\OneDrive\Documentos\primerlaboratorio\ejercicio1\obj\Debug\net8.0\ejercicio1.AssemblyInfo.cs
+C:\Users\KIRITO RINCON\OneDrive\Documentos\primerlaboratorio\ejercicio1\obj\Debug\net8.0\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\KIRITO RINCON\OneDrive\Documentos\primerlaboratorio\ejercicio1\obj\Debug\net8.0\ejercicio1.dll
+C:\Users\KIRITO RINCON\OneDrive\Documentos\primerlaboratorio\ejercicio1\obj\Debug\net8.0\refint\ejercicio1.dll
+C:\Users\KIRITO RINCON\OneDrive\Documentos\primerlaboratorio\ejercicio1\obj\Debug\net8.0\ejercicio1.pdb
+C:\Users\KIRITO RINCON\OneDrive\Documentos\primerlaboratorio\ejercicio1\obj\Debug\net8.0\ejercicio1.genruntimeconfig.cache
+C:\Users\KIRITO RINCON\OneDrive\Documentos\primerlaboratorio\ejercicio1\obj\Debug\net8.0\ref\ejercicio1.dll
